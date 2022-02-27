@@ -1,9 +1,7 @@
-### Hi there 👋
+### Raphael Muniz 👋
 
-<!--
-**raphaelsmuniz/raphaelsmuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-raphael-de-souza-muniz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-de-souza-muniz-ab800739/)](https://www.linkedin.com/in/raphael-de-souza-muniz-ab800739/)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
