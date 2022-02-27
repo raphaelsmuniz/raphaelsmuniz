@@ -1,6 +1,6 @@
 ### Raphael Muniz 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-raphael-de-souza-muniz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-de-souza-muniz-ab800739/)](https://www.linkedin.com/in/raphael-de-souza-muniz-ab800739/)
+<a href="https://www.linkedin.com/in/raphael-de-souza-muniz-ab800739" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 - 🔭 I’m currently working on ...
